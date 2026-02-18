@@ -16,3 +16,9 @@ nav a {
 h1 {
     text-align: center;
 }
+
+.project {
+    padding: 1.5%;
+    margin: 1%;
+    background-color: bisque;
+}
