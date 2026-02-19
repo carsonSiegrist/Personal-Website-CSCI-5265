@@ -1,24 +1,32 @@
 body {
-    background-color: white;
+  background-color: white;
 }
 
 nav {
-    text-align: center;
-    padding-top: .5%;
-    background-color: rgb(72, 181, 253);
+  text-align: center;
+  padding-top: 0.5%;
+  background-color: rgb(72, 181, 253);
 }
 
 nav a {
-    padding: 2em;
-    font-family: 'Arial';
+  padding: 2em;
+  font-family: "Arial";
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .project {
-    padding: 1.5%;
-    margin: 1%;
-    background-color: bisque;
+  padding: 1.5%;
+  margin: 1%;
+  background-color: bisque;
+}
+
+.project a {
+  color: black;
+}
+
+.project a :hover {
+  color: gray;
 }
