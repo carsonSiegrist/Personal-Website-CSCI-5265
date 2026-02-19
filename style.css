@@ -20,7 +20,7 @@ h1 {
 .project {
   padding: 1.5%;
   margin: 1%;
-  background-color: bisque;
+  background-color: rgb(255, 228, 196);
 }
 
 .project a {
@@ -29,4 +29,30 @@ h1 {
 
 .project a :hover {
   color: gray;
+}
+
+.project-page {
+  width: 80%;
+  margin: auto;
+  padding: 2%;
+  background-color: rgb(255, 228, 196);
+}
+
+.project-header {
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.project-header img {
+  width: 25%;
+  height: auto;
+}
+
+.project-content {
+  font-family: Arial;
+  line-height: 1.6;
+}
+
+.project-section {
+  margin-top: 2%;
 }
